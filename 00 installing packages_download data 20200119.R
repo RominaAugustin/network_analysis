@@ -6,7 +6,7 @@
 # Installing packages and downloading data for practicals
 
 # set wd (use double backslash to have a real backslash like in directory)
-setwd("D:\\Master\\WS1920 Seminar Network Analysis")
+setwd("D:\\Master\\WS1920_Seminar_Network_Analysis")
 
 # download datasets from dropbox
 
